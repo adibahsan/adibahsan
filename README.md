@@ -7,9 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### Now Listening
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3147fyyiwhrqqw6brfqyuvo7i6qe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/3147fyyiwhrqqw6brfqyuvo7i6qe)
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -21,7 +18,7 @@
 <a href="https://linkedin.com/in/tjadib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tjadib" height="30" width="40" /></a>
 <a href="https://fb.com/tjadib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tjadib" height="30" width="40" /></a>
 </p>
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3147fyyiwhrqqw6brfqyuvo7i6qe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/3147fyyiwhrqqw6brfqyuvo7i6qe)
 
 
 <h3 align="left">Languages and Tools:</h3>
