@@ -31,8 +31,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adibahsan&" alt="adibahsan" /></p>
 
 - 
-<a href="https://app.daily.dev/adibahsan"><img src="https://api.daily.dev/devcards/e8e69c90ec9f49fea943dfd42247320c.png?r=4yd" width="400" alt="Adib Ahsan Chowdhury's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/adibahsan"><img src="https://api.daily.dev/devcards/e8e69c90ec9f49fea943dfd42247320c.png?r=4yd" width="400" alt="Adib Ahsan Chowdhury's Dev Card"/></a> -->
 
+<a href="https://app.daily.dev/adibahsan"><img src="https://api.daily.dev/devcards/v2/HM1w9sx4W9ya5GNWO9TMz.png?r=1yh&type=default" width="356" alt="Adib Ahsan Chowdhury's Dev Card"/></a>
 <!---
 adibahsan/adibahsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
