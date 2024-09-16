@@ -1,12 +1,13 @@
 ![👋 Hi, my name is Adib Chowdhury](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
+<div align="center">
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
+</div>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=adibahsan&label=Profile%20views&color=0e75b6&style=flat" alt="adibahsan" />
-
 
 <div id="toc">
   <ul align="center" style="list-style: none">
