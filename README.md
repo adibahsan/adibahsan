@@ -1,15 +1,49 @@
-<h1 align="center">Hi 👋, I'm Adib</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+![👋 Hi, my name is Adib Chowdhury](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+
+
+
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=adibahsan&label=Profile%20views&color=0e75b6&style=flat" alt="adibahsan" />
+
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Adib Chowdhury
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+**<h3 align="left">Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+
 </p>
 
+
+  
+**<h3 align = "left">Rapid Fire</h3>**
+
+<div align="left">
+
+- 💼 I'm currently working on: **💻 Developing a Generative AI Solution for Banks**
+- 🌱 I'm currently learning: **📚 Exploring Kubernetes**
+- 💬 Ask me about: **💡 JavaScript, Typescript, React, React Native, Redux, Node.js, MongoDB, MySQL, Spring Boot, Java, Kotlin, Docker**
+- 👨‍🏫 Find about my works at [adibahsan.github.io](adibahsan.github.io)
+- ⚡ Fun fact: **💪 I’ve spent more time debugging code than I’ve spent at the gym. (Who knew code could be so out of shape? )**
+
+</div>
+
+
+<!-- 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=adibahsan" alt="adibahsan" />
   </a>
 </p>
+-->
 
 <p align="center"> 
   <a href="https://twitter.com/" target="blank">
