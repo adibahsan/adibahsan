@@ -31,6 +31,8 @@
 
 <a href="https://app.daily.dev/adibahsan"><img src="https://api.daily.dev/devcards/v2/HM1w9sx4W9ya5GNWO9TMz.png?type=wide&r=5c1" width="652" alt="Adib Ahsan Chowdhury's Dev Card"/></a>
 
+![GitHub Snake Dark](https://github.com/adibahsan/adibahsan/blob/output/github-contribution-grid-snake-dark.svg)
+
 <!-- <a href="https://app.daily.dev/adibahsan"><img src="https://api.daily.dev/devcards/v2/HM1w9sx4W9ya5GNWO9TMz.png?r=1yh&type=default" width="356" alt="Adib Ahsan Chowdhury's Dev Card"/></a> -->
 <!---
 adibahsan/adibahsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
