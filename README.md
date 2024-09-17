@@ -19,7 +19,7 @@
   </ul>
 </div>
 
-**<h3 align="left">Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+**<h3 align="left">Passionate full-stack web developer, creating robust and scalable web & mobile applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
 </p>
 
