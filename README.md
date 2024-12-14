@@ -29,8 +29,8 @@
 
 <div align="left">
 
-- 💼 I'm currently working on: **💻 Developing a Generative AI Solution for Banks**
-- 🌱 I'm currently learning: **📚 Exploring Kubernetes & Learning Playwright with Crawlee**
+- 💼 I'm currently working on: **💻 Buffet Reservation Site**
+- 🌱 I'm currently learning: **📚 Exploring Kubernetes & Learning Next.js 15**
 - 💬 Ask me about: **💡 JavaScript, Typescript, React, React Native, Redux, Node.js, MongoDB, MySQL, Spring Boot, Java, Kotlin, Docker**
 - 👨‍🏫 Find about my works at [adibahsan.github.io](https://adibahsan.github.io/)
 - ⚡ Fun fact: **💪 I’ve spent more time debugging code than I’ve spent at the gym. (Who knew code could be so out of shape? )**
