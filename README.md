@@ -29,9 +29,9 @@
 
 <div align="left">
 
-- 💼 I'm currently working on: **💻 Buffet Reservation Site**
-- 🌱 I'm currently learning: **📚 Exploring Kubernetes & Learning Next.js 15**
-- 💬 Ask me about: **💡 JavaScript, Typescript, React, React Native, Redux, Node.js, MongoDB, MySQL, Spring Boot, Java, Kotlin, Docker**
+- 💼 I'm currently working on: **💻 an AI Based Regulation Service**
+- 🌱 I'm currently learning: **📚 Exploring About A2UI protocol**
+- 💬 Ask me about: **💡 JavaScript, Typescript, React, React Native, Next.js, Redux, Node.js, MongoDB, MySQL, Spring Boot, Java, Kotlin, Docker**
 - 👨‍🏫 Find about my works at [adibahsan.github.io](https://adibahsan.github.io/)
 - ⚡ Fun fact: **💪 I’ve spent more time debugging code than I’ve spent at the gym. (Who knew code could be so out of shape? )**
 - ⚡ Another fun fact: 🐍 Python is my go-to language for problem-solving, despite having never used it professionally 
